@@ -1,12 +1,12 @@
 # Kntnt Plugin
 
-WordPress plugin that does nothing but keeping the most up-to-date version of typically building blocks of a plugin made by Kntnt.
+WordPress plugin that does nothing but keeps the most up-to-date version of typically building blocks of a plugin by Kntnt.
 
 ## Description
 
-This is the most difficult section of every `README.md` file. What to tell. Well, the purpose is to give a more detailed description of the plugin.
+This is the most challenging section of every `README.md` file. What to tell. Well, the purpose is to give a more detailed description of the plugin.
 
-The purpose of this particular plugin – Kntnt Plugin – is just to keep  the most up-to-date version of typically building blocks of a plugin made by Kntnt. The plugin probably don't even work! In fact, if you install it and activate it, your site will probably just die. Truth to be told, it has never been tested. It is just a dummy.
+The purpose of this particular plugin – Kntnt Plugin – is just to keep the most up-to-date version of typically building blocks of a plugin made by Kntnt. The plugin probably doesn't even work! In fact, if you install it and activate it, your site will probably just die. Truth to be told, it has never been tested. It is just a dummy.
 
 ## Installation
 
@@ -28,7 +28,7 @@ If you prefer WordPress to nag you about an update and let you update from withi
 
 ### How can I get help?
 
-If you have questions about the plugin, and cannot find an answer here, start by looking at [issues](https://github.com/kntnt/kntnt-plugin/issues) and [pull requests](https://github.com/kntnt/kntnt-plugin/pulls). If you still cannot find the answer, feel free to ask in the plugin's [issue tracker](https://github.com/kntnt/kntnt-plugin/issues) at Github.
+If you have questions about the plugin and cannot find an answer here, start by looking at [issues](https://github.com/kntnt/kntnt-plugin/issues) and [pull requests](https://github.com/kntnt/kntnt-plugin/pulls). If you still cannot find the answer, feel free to ask in the plugin's [issue tracker](https://github.com/kntnt/kntnt-plugin/issues) at Github.
 
 ### How can I report a bug?
 

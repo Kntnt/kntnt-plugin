@@ -52,6 +52,12 @@ If you are familiar with Git, please make a pull request.
 
 ## Changelog
 
+### 1.0.2
+
+* Option is not auto-loaded.
+* Delete create files on uninstall.
+* Optimized is_using().
+
 ### 1.0.1
 
 * Resolved a conflict between File_Save and Directories.

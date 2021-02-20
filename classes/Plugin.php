@@ -9,6 +9,7 @@ final class Plugin extends Abstract_Plugin {
 	// The plugin is extended with following functionalities.
 	use Dependency_Checks;
 	use Directories;
+	use File_Save;
 	use Logger;
 	use Options;
 	use Shortcodes;

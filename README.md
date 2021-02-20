@@ -52,6 +52,10 @@ If you are familiar with Git, please make a pull request.
 
 ## Changelog
 
+### 1.0.1
+
+* Resolved a conflict between File_Save and Directories.
+
 ### 1.0.0
 
-The initial release.
+* The initial release.

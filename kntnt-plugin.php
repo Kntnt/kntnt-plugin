@@ -7,7 +7,7 @@
  * Plugin Name:       Kntnt Plugin
  * Plugin URI:        https://github.com/Kntnt/kntnt-plugin
  * GitHub Plugin URI: https://github.com/Kntnt/kntnt-plugin
- * Description:       Does nothing but keeping the most up-to-date version of typically building blocks of a plugin made by Kntnt.
+ * Description:       Does nothing but keeps the most up-to-date version of typically building blocks of a plugin by Kntnt
  * Version:           1.0.0
  * Author:            Thomas Barregren
  * Author URI:        https://www.kntnt.com/

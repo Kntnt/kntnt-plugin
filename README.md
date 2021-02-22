@@ -52,6 +52,11 @@ If you are familiar with Git, please make a pull request.
 
 ## Changelog
 
+
+### 1.0.3
+
+* Tiny optimization of version().
+
 ### 1.0.2
 
 * Option is not auto-loaded.

@@ -110,16 +110,18 @@ abstract class Abstract_Plugin {
 	}
 
 	// Plugin version.
-	public static final function version() {
-		$key = self::$ns . '-plugin-version';
-		$version = get_transient( $key );
+	private static function version() {
+		$version = null;
 		if ( ! $version ) {
-			$version = get_plugin_data( self::plugin_dir( self::$ns . '.php' ), false, false )['Version'];
-			set_transient( $key, $version, DAY_IN_SECONDS );
+			$key = self::$ns . '-plugin-version';
+			$version = get_transient( $key );
+			if ( ! $version ) {
+				$version = get_plugin_data( self::plugin_dir( self::$ns . '.php' ), false, false )['Version'];
+				set_transient( $key, $version, DAY_IN_SECONDS );
+			}
 		}
 		return $version;
 	}
-
 	// Returns the truth value of the statement that we are running in the
 	// context asserted by $context.
 	public static final function is_context( $context ) {

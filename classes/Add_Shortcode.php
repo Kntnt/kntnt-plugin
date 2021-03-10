@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Kntnt\Podcast_Player;
+namespace Kntnt\Plugin;
 
 
 class Add_Shortcode {

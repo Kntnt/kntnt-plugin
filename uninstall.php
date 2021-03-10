@@ -1,5 +1,7 @@
 <?php
 
+namespace Kntnt\Plugin;
+
 defined( 'WP_UNINSTALL_PLUGIN' ) || die;
 
 delete_option( 'kntnt-plugin' );

@@ -103,7 +103,7 @@ abstract class Abstract_Plugin {
 		$key = self::$ns . '-plugin-name';
 		$name = get_transient( $key );
 		if ( ! $name ) {
-			$name = get_plugin_data( self::plugin_dir( self::$ns . '.php' ), false, false )['Name'];
+			$name = get_plugin_data( self::plugin_dir( 'plugin.php' ), false, false )['Name'];
 			set_transient( $key, $name, DAY_IN_SECONDS );
 		}
 		return $name;

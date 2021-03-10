@@ -53,6 +53,11 @@ If you are familiar with Git, please make a pull request.
 ## Changelog
 
 
+### 1.0.4.
+
+* FIXED: Wrong namespace i Add_Shortcode class.
+* ENHANCEMENT: Renamed the main file to just plugin.php to avoid need for renaming it in projects.
+
 ### 1.0.3
 
 * Tiny optimization of version().

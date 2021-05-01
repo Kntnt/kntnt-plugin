@@ -6,8 +6,6 @@ namespace Kntnt\Plugin;
 
 class Add_Shortcode {
 
-	use Badges;
-
 	public function run() {
 		add_shortcode( 'hello', [ $this, 'shortcode' ] );
 		Plugin::debug( 'Added shortcode [%s].', 'my_shortcode' );

@@ -12,6 +12,7 @@ final class Plugin extends Abstract_Plugin {
 	use File_Save;
 	use Logger;
 	use Options;
+	use Fields;
 	use Shortcodes;
 	use Templates;
 
